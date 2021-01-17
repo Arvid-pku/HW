@@ -1,2 +1,0 @@
-# HW
-homework in qlv
